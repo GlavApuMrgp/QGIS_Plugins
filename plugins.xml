@@ -16,7 +16,6 @@
         <author_name>Dolan</author_name>
 	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_prj_variables.zip</download_url>	  
     </pyqgis_plugin>
-    </pyqgis_plugin>
 	<pyqgis_plugin name="mrgp_svg" version="0.0.1">
         <description>mrgp_svg</description>
         <homepage>https://glavapumrgp.github.io/QGIS_Plugins.io/</homepage>
