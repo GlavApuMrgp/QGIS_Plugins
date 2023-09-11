@@ -8,7 +8,7 @@
         <author_name>Dolan</author_name>
 	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_Functions.zip</download_url>	  
     </pyqgis_plugin>
-	<pyqgis_plugin name="mrgp_prj_variables" version="0.0.4">
+    <pyqgis_plugin name="mrgp_prj_variables" version="0.0.4">
         <description>mrgp_prj_variables</description>
         <homepage>https://glavapumrgp.github.io/QGIS_Plugins.io/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
@@ -16,12 +16,20 @@
         <author_name>Dolan</author_name>
 	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_prj_variables.zip</download_url>	  
     </pyqgis_plugin>
-	<pyqgis_plugin name="mrgp_svg" version="0.0.1">
+    <pyqgis_plugin name="mrgp_svg" version="0.0.1">
         <description>mrgp_svg</description>
         <homepage>https://glavapumrgp.github.io/QGIS_Plugins.io/</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>mrgp_svg.zip</file_name>
         <author_name>Dolan</author_name>
 	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_svg.zip</download_url>	  
+    </pyqgis_plugin>
+    <pyqgis_plugin name="mrgp_flip" version="0.0.3">
+        <description>mrgp_flip</description>
+        <homepage>https://glavapumrgp.github.io/QGIS_Plugins.io/</homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>mrgp_flip.zip</file_name>
+        <author_name>Dolan</author_name>
+	<download_url>https://glavapumrgp.github.io/QGIS_Plugins.io/mrgp_flip.zip</download_url>	  
     </pyqgis_plugin>
 </plugins>
